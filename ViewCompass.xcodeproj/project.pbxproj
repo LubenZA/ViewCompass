@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		084B2C9B2DD5F57300121A91 /* Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 084B2C9A2DD5F57300121A91 /* Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		084B2C4F2DD5D4D700121A91 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		084B2C3E2DD5D4D500121A91 /* ViewCompass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewCompass.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		084B2C4E2DD5D4D700121A91 /* ViewCompassTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViewCompassTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		084B2C582DD5D4D700121A91 /* ViewCompassUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViewCompassUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		084B2C9A2DD5F57300121A91 /* Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				084B2C512DD5D4D700121A91 /* ViewCompassTests */,
 				084B2C5B2DD5D4D700121A91 /* ViewCompassUITests */,
 				084B2C3F2DD5D4D500121A91 /* Products */,
+				084B2C9A2DD5F57300121A91 /* Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				084B2C9B2DD5F57300121A91 /* Simulator Screenshot - iPhone 16 Pro - 2025-05-15 at 12.11.33.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
